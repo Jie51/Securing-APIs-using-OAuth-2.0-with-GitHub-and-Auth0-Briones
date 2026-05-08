@@ -1,0 +1,18 @@
+i. What happens when a user accesses /profile without logging in?
+when access it will direct it to the un-autorized page
+
+
+ii. What data is returned after successful login?
+the users account and like name and picture
+
+
+iii. Why is OAuth considered more secure than traditional login?
+since its using a 3rd party to gain access and using google to login which is secured already 
+
+
+iv. What challenges did you encounter?
+the challenges that came was the environment of the development and the understanding of OAuth it came to a suprise when there were errors suddenly when trying to logout or login in.
+
+
+v. What did you learn from this activity?
+the proper whey of using api when doing authentication and the routing of it. 
